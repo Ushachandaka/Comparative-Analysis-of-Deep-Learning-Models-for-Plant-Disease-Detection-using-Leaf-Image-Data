@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Deep-Learning-Models-for-Plant-Disease-Detection-using-Leaf-Image-Data
+This project presents a comparative analysis of deep learning models for plant disease detection using leaf image datasets. It evaluates models such as CNN, ResNet, VGG16, and MobileNet based on accuracy, precision, recall, training time, and efficiency to identify the most effective approach for early and reliable plant disease classification.
