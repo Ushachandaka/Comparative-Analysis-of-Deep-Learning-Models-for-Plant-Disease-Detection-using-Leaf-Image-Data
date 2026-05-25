@@ -31,3 +31,6 @@ Data augmentation:
 Rotation
 Zoom
 Horizontal flipping
+
+
+Overall, the reduced PlantVillage subset provides a practical and efficient dataset for developing and evaluating plant disease detection models while maintaining sufficient variability for meaningful learning.
